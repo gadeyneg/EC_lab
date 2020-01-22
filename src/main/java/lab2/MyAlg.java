@@ -12,7 +12,7 @@ import java.util.Random;
 public class MyAlg {
 
     public static void main(String[] args) {
-        int dimension = 50; // dimension of problem
+        int dimension = 100; // dimension of problem
         int populationSize = 10; // size of population
         int generations = 100000; // number of generations
 
